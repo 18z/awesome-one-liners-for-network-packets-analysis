@@ -19,3 +19,5 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
+
+Note: This document is copied from [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line/blob/master/contributing.md).
