@@ -1,4 +1,4 @@
-## Protocol ICMP
+## The Internet Control Message Protocol (ICMP)
 ##### Question 1 : How to filter icmp packet?
 ```bash
 $ tshark -Y "icmp"
