@@ -5,4 +5,4 @@
 
 ##### ICMP Protocol
 * [How to filter icmp packets?](icmp/how_to_filter_icmp_packets.md)
-* [How to find icmp ping request or response?](icmp/how_to_find_icmp_request_or_response.md)
+* [How to find icmp ping request or response?](icmp/how_to_find_icmp_ping_request_or_response.md)
