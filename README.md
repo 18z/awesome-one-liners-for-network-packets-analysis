@@ -5,6 +5,7 @@
 * [How to capture network traffic with tshark?](tshark/how_to_capture_network_traffic_with_tshark.md)
 * [How to filter specific network traffic?](tshark/how_to_filter_specific_network_traffic.md)
 * [How to write raw packet data to file?](tshark/how_to_write_raw_packet_data_to_file.md)
+* [How to read packet data from file?](tshark/how_to_read_packet_data_from_file.md)
 
 ##### ICMP Protocol
 * [How to filter icmp packets?](icmp/how_to_filter_icmp_packets.md)
