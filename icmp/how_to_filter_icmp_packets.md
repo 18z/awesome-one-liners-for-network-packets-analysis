@@ -1,7 +1,7 @@
 ## The Internet Control Message Protocol (ICMP)
 ##### Question 1 : How to filter icmp packet?
 ```bash
-$ tshark -i eth0 -Y "icmp"
+$ tshark -i "eth0" -Y "icmp"
 ```
 
 ###### REFERENCE:

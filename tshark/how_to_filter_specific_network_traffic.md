@@ -1,7 +1,7 @@
 ## tshark - Dump and analyze network traffic
 ##### Question 3 : How to filter specific network traffic?
 ```bash
-$ tshark -i eth0 -Y "filter"
+$ tshark -i "eth0" -Y "filter"
 ```
 
 ###### OPTIONS:
