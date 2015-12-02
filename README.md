@@ -20,4 +20,4 @@
 1. [How to filter dns packets?](dns/how_to_filter_dns_packets.md)
 2. [How to filter dns query packets?](dns/how_to_filter_dns_query_packets.md)
 3. [How to filter dns response packets?](dns/how_to_filter_dns_response_packets.md)
-4. [How to filter dns traffic which has error condition?](dns/how_to_filter_dns_traffic_which_has_error_condition.md)
+4. [How to filter dns traffic which has error conditions?](dns/how_to_filter_dns_traffic_which_has_error_conditions.md)
