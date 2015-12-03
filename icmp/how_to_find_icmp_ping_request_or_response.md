@@ -1,5 +1,5 @@
 ## The Internet Control Message Protocol (ICMP)
-##### Question 2 : How to find icmp ping request or response?
+##### Question : How to find icmp ping request (ping sweep detection) or response?
 ```bash
 $ tshark -i "eth0" -Y "icmp.type==8 || icmp.type==0"
 ```

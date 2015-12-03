@@ -1,5 +1,5 @@
 ## The Internet Control Message Protocol (ICMP)
-##### Question 3 : How to discover icmp destination unreachable response to a tcp handshake (possible firewall-protected target)? 
+##### Question : How to discover icmp destination unreachable response to a tcp handshake (possible firewall-protected target)? 
 ```bash
 $ tshark -i "eth0" -Y "icmp.type==3 && 
     (icmp.code==1 || icmp.code==2  || icmp.code==3 || 

@@ -1,5 +1,5 @@
 ## tshark - Dump and analyze network traffic
-##### Question 6 : How to capture a specific number of packets?
+##### Question : How to capture a specific number of packets?
 ```bash
 $ tshark -i "eth0" -c "count"
 ```

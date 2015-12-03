@@ -1,5 +1,5 @@
 ## tshark - Dump and analyze network traffic
-##### Question 7 : How to capture specific network traffic?
+##### Question : How to capture specific network traffic?
 ```bash
 $ tshark -i "eth0" -f "filter"
 ```

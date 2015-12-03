@@ -1,5 +1,5 @@
 ## tshark - Dump and analyze network traffic
-##### Question 5 : How to read packet data from file?
+##### Question : How to read packet data from file?
 ```bash
 $ tshark -r "filename" 
 ```

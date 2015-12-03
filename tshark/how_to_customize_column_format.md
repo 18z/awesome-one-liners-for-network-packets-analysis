@@ -1,5 +1,5 @@
 ## tshark - Dump and analyze network traffic
-##### Question 8 : How to customize column format?
+##### Question : How to customize column format?
 Answer 1: Directly set preferences with option -o 
 
 ```bash

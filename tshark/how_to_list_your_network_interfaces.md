@@ -1,5 +1,5 @@
 ## tshark - Dump and analyze network traffic
-##### Question 1 : How to list your network interfaces?
+##### Question : How to list your network interfaces?
 ```bash
 $ tshark -D
 ```

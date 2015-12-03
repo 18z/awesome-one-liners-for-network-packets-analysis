@@ -1,7 +1,7 @@
 ## The Domain Name System (DNS)
-##### Question 4 : How to filter dns traffic which has error conditions?
+##### Question : How to filter dns traffic which has error conditions?
 ```bash
-$ tshark -i "eth0" -Y "dns.flags.rcode != 0"
+$ tshark -i "eth0" -Y "dns.flags.rcode!=0"
 ```
 
 ###### REFERENCE:

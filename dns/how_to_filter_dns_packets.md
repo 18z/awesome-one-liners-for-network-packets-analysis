@@ -1,5 +1,5 @@
 ## The Domain Name System (DNS)
-##### Question 1 : How to filter dns packets?
+##### Question : How to filter dns packets?
 ```bash
 $ tshark -i "eth0" -Y "dns"
 ```

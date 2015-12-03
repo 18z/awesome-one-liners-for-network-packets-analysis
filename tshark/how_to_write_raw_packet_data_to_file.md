@@ -1,5 +1,5 @@
 ## tshark - Dump and analyze network traffic
-##### Question 4 : How to write raw packet data to file?
+##### Question : How to write raw packet data to file?
 ```bash
 $ tshark -i "eth0" -w "filename" 
 ```

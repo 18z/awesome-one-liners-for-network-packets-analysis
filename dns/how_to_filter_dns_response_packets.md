@@ -1,5 +1,5 @@
 ## The Domain Name System (DNS)
-##### Question 2 : How to filter dns response packets?
+##### Question : How to filter dns response packets?
 ```bash
 $ tshark -i "eth0" -Y "dns.flags.response==1"
 ```
