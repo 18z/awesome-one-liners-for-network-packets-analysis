@@ -9,6 +9,7 @@
 6. [How to capture a specific number of packets?](tshark/how_to_capture_a_specific_number_of_packets.md)
 7. [How to capture specific network traffic?](tshark/how_to_capture_specific_network_traffic.md)
 8. [How to customize column format?](tshark/how_to_customize_column_format.md)
+9. [How to customize ouput format?](tshark/how_to_customize_ouput_format.md)
 
 ##### ICMP Protocol
 1. [How to filter icmp packets?](icmp/how_to_filter_icmp_packets.md)
@@ -25,6 +26,6 @@
 6. [How to find dns packets contain a specific string?](dns/how_to_find_dns_packets_contain_a_specific_string.md)
 7. [How to find dns packets contain canonical name (redirection)?](dns/how_to_find_dns_packets_contain_canonical_name.md)
 8. [How to filter dns traffic which has error conditions?](dns/how_to_filter_dns_traffic_which_has_error_conditions.md)
-9. [How to identify possible ip-flux(Fast-flux) response traffic?](dns/how_to_identify_possible_ip_flux_dns_traffic.md)
-10. [How to identify possible domain-flux(DGA) query traffic?](dns/how_to_identify_possible_domain_flux_dns_traffic.md)
+9. [How to identify possible ip-flux (Fast-flux) response traffic?](dns/how_to_identify_possible_ip_flux_dns_traffic.md)
+10. [How to identify possible domain-flux (DGA) query traffic?](dns/how_to_identify_possible_domain_flux_dns_traffic.md)
 
