@@ -2,7 +2,7 @@
 ##### Question : How to identify possible ip-flux(Fast-flux) response traffic?
 ```bash
 $ tshark -i "eth0" -Y "(dns.flags.response==1) && (dns.count.answers>=5) && 
-  (dns.resp.ttl<3600 || dns.resp.ttl<86400 || dns.resp.ttl<259200)"
+    (dns.resp.ttl<3600 || dns.resp.ttl<86400 || dns.resp.ttl<259200)"
 ```
 
 ###### REFERENCE:
