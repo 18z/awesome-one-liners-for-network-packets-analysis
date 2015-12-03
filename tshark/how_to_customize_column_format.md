@@ -22,7 +22,7 @@ column.format:
 ###### OPTIONS:
 
 
--o \<preference>:\<value>
+__-o \<preference>:\<value>__
 
 > Set a preference value, overriding the default value and any value read from a preference file. The argument to the option is a string of the form prefname:value, where prefname is the name of the preference (which is the same name that would appear in the preference file), and value is the value to which it should be set.
 
