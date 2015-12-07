@@ -40,7 +40,7 @@ sudo iptables -I INPUT -p icmp -j REJECT --reject-with icmp-host-prohibited
 sudo iptables -I INPUT -p icmp -j REJECT --reject-with icmp-admin-prohibited
 
 As mentioned in the article of port scanning techniques [2],
-an ICMP unreachable error could be andy of icmp type 3, code 0, 1, 2, 3, 9, 10, or 13.
+an ICMP unreachable error could be any of icmp type 3, code 0, 1, 2, 3, 9, 10, or 13.
 
 ```
 
