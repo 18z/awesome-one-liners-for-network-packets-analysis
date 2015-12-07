@@ -14,3 +14,23 @@ __-D \<Display>__
 >This can be useful on systems that don't have a command to list them (e.g., Windows systems, or UNIX systems lacking ifconfig -a); the number can be useful on Windows 2000 and later systems, where the interface name is a somewhat complex string.
 
 >Note that "can capture" means that TShark was able to open that device to do a live capture. Depending on your system you may need to run tshark from an account with special privileges (for example, as root) to be able to capture network traffic. If TShark -D is not run from such an account, it will not list any interfaces.
+
+##### Experiment:
+
+Environment setup:
+
+```
+host machine: MacOS X
+```
+
+Launch Experiment:
+
+```
+$ tshark -D
+1. en0 (Ethernet)
+2. fw0 (FireWire)
+3. en1 (Wi-Fi)
+4. p2p0
+5. bridge100
+6. lo0 (Loopback)
+```
