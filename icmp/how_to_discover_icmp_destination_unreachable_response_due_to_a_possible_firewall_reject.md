@@ -39,7 +39,7 @@ sudo iptables -I INPUT -p icmp -j REJECT --reject-with icmp-host-prohibited
 # 13  Communication Administratively Prohibited   [RFC1812]
 sudo iptables -I INPUT -p icmp -j REJECT --reject-with icmp-admin-prohibited
 
-As mentioned in the article of [port scanning techniques](https://nmap.org/book/man-port-scanning-techniques.html),
+As mentioned in the article of port scanning techniques [2],
 an ICMP unreachable error could be andy of icmp type 3, code 0, 1, 2, 3, 9, 10, or 13.
 
 ```
@@ -82,5 +82,6 @@ responeses destination unreachable packets to the client machine (34.146).
 
 ###### REFERENCE:
 
-* [IANA - ICMP Type 3 — Destination Unreachable](https://www.iana.org/assignments/icmp-parameters/icmp-parameters.xhtml#icmp-parameters-codes-3)
-* [NMAP - Port Scanning Techniques](https://nmap.org/book/man-port-scanning-techniques.html)
+[1] [IANA - ICMP Type 3 — Destination Unreachable](https://www.iana.org/assignments/icmp-parameters/icmp-parameters.xhtml#icmp-parameters-codes-3)
+
+[2] [NMAP - Port Scanning Techniques](https://nmap.org/book/man-port-scanning-techniques.html)
