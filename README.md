@@ -10,7 +10,7 @@
 7. [How to capture specific network traffic?](tshark/how_to_capture_specific_network_traffic.md)
 8. [How to customize column format?](tshark/how_to_customize_column_format.md)
 9. [How to customize ouput format?](tshark/how_to_customize_ouput_format.md)
-10.[How to use geoip and customize output format?](tshark/How_to_use_geoip_and_customize_output_ format?)
+10.[How to use geoip and customize output format?](tshark/How_to_use_geoip_and_customize_output_format?)
 
 ##### ICMP Protocol
 1. [How to filter icmp packets?](icmp/how_to_filter_icmp_packets.md)
