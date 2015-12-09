@@ -25,6 +25,6 @@ Exclude U.S.-based traffic:
 Show address above the arctic circle:
  ip.geoip.lat > "66.5" 
 
-  REFERENCE:
-  [1]https://wiki.wireshark.org/HowToUseGeoIP
+###### REFERENCE:
+[1] [How To Use GeoIp](https://wiki.wireshark.org/HowToUseGeoIP)
 
