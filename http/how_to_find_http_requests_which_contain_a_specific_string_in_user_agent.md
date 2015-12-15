@@ -1,5 +1,5 @@
 ## Hypertext Transfer Protocol (HTTP)
-##### Question : How to find http requests which contain a specific string in user agent?
+##### Question : How to find http requests which contain a specific string in user-agent?
 ```bash
 $ tshark -i "eth0" -Y 'http.user_agent contains "Chrome"'
 ```
