@@ -3,13 +3,13 @@
 
 In ~/.wireshark, create 1. init.lua 2. trivial.lua
 
-1. init.lua
+* init.lua
 ```lua
 disable_lua = false
 dofile("trivial.lua")
 ```
 
-2. trivial.lua
+* trivial.lua
 ```lua
 -- init.lua
 -- trivial protocol example
